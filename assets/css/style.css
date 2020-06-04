@@ -1,4 +1,4 @@
-.bimg-splash {
+.parallax {
   background-image: url('../../assets/img/splash.jpg');
   background-attachment: fixed;
   background-position: center;
@@ -16,7 +16,7 @@ button:hover {
   margin: 7px 10px 12px 15px;
   border-radius: 5px;
   color: white;
-  font-family: 'infinityregular';
+  font-family: 'FLOGREEN';
   border-color: white;
   font-weight: 800;
   letter-spacing: 2px;
