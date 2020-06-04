@@ -35,6 +35,8 @@ img {
 
 /* Position the image container (needed to position the left and right arrows) */
 .slideshow-container {
+  width: 90%;
+  margin: auto;
   position: relative;
 }
 
