@@ -7,6 +7,10 @@ button:hover {
   color: black!important;
 }
 
+#mainNav {
+  background-color: rgba(0,0,0,0.65);
+}
+
 .btn.btn-primary.btn-lg {
   background-color: black;
   margin: 7px 10px 12px 15px;
